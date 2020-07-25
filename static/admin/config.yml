@@ -3,7 +3,7 @@ backend:
   repo: mrdanpo/jampo
 
 media_folder: content/assets
-public_folder: /content
+public_folder: /assets
 
 collections:
   - name: blog
