@@ -2,8 +2,8 @@ backend:
   name: github
   repo: mrdanpo/jampo
 
-media_folder: static/assets
-public_folder: /assets
+media_folder: content/assets
+public_folder: /content
 
 collections:
   - name: blog
@@ -11,7 +11,8 @@ collections:
     folder: blog
     create: true
     fields:
-      - { name: path, label: Path }
+      - { name: slug, label: Slug }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - { name: description, label: description }
+      - { name: html, label: Html, widget: markdown }
