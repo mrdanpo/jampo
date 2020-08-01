@@ -8,7 +8,6 @@ module.exports = {
     description: `A blog built with Gatsby.`,
     siteUrl: `https://danielproctor.dev/`,
     social: {
-      twitter: `mrdanpo`,
       github: `mrdanpo`,
       linkedin: `daniel-proctor-35197b108`
     },

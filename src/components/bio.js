@@ -28,7 +28,6 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
             linkedin
             github
           }
@@ -67,10 +66,6 @@ const Bio = () => {
         {` `}
         <a href={`https://github.com/${social.github}`}>
           GitHub 
-        </a>
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          Twitter
         </a>
       </p>
     </div>
