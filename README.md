@@ -1,17 +1,4 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d1ca59ae-a737-44f7-a546-0fbaa591723d/deploy-status)](https://app.netlify.com/sites/stoic-joliot-14417c/deploys)
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
-
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
@@ -90,11 +77,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
